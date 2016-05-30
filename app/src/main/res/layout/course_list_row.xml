@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:orientation="vertical"
+    android:minHeight="60dp"
+    android:background="#99CC00"
+    tools:context="com.example.subba.courselist.MainActivity">>
+
+    <TextView
+        android:id="@+id/courseHeadline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Acadgild Courses"
+        android:padding="5dp"
+        android:minLines="2"
+        android:maxLines="2"
+        android:textStyle="bold"
+        android:textColor="#0000dc"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+
+
+</LinearLayout>

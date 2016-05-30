@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="course_headlines">
+        <item>Android Development</item>
+        <item>Big Data and Hadoop Development</item>
+        <item>Front-end Web Development</item>
+        <item>Linux Fundamentals</item>
+        <item>Scala Programming</item>
+        <item>Java</item>
+        <item>Robotics</item>
+        <item>Cloud Bundle</item>
+    </string-array>
+
+    <string-array name="course_details">
+        <item>Mentor name is Preethika Kaur.</item>
+		<item>Mentor name is Akhilesh.</item>
+		<item>Mentor name is Ranjith.</item>
+		<item>This is Self-Placed Course.</item>
+		<item>This is Self-Placed Course.</item>
+		<item>Mentor name is Tabish</item>
+		<item>Mentor name is XYZ</item>
+		<item>Mentor name is ABC.</item>
+    </string-array>
+
+</resources>
